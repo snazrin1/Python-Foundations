@@ -18,7 +18,12 @@ This is my professional coding journal for the 2026 After-School Coding Program.
 
 # Lesson 3 : Numbers and Operations
 - Learned int, float, operators
-Created simple calculator mini projectS
+- Created simple calculator mini project
+
+# Project 1 : ASCII Art
+**Skill Learned:** Multi-line strings and terminal formatting.
+**Challenge:** Creating a visual "Welcome" sign for my repository.
+
 
 
 
