@@ -16,3 +16,9 @@ This is my professional coding journal for the 2026 After-School Coding Program.
 - Learned how to use input() and variables
 - Created Story Generator mini project
 
+# Lesson 2 : Numbers and Operations
+- Learned int, float, operators
+Created simple calculator mini project
+
+
+
