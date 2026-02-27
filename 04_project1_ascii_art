@@ -1,0 +1,19 @@
+# Project 1: ASCII Art
+# Objective: Use triple quotes to print a multi-line design.
+
+# This is a 'Docstring' or a Multi-line String
+print("""
+      / \ \     
+     /   \ \    
+    /     \ \   
+   /-------\ \  
+   |   _   |  | 
+   |  | |  |  |
+   |__|_|__|  |
+   
+   WELCOME TO MY ASCII HOME!
+""")
+
+# Small Challenge: Ask the user to name the art
+art_name = input("What would you name this building? ")
+print(f"You named this: {art_name}")
