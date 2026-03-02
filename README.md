@@ -49,6 +49,21 @@ Created "The Secret Password Vault" mini project
 Mastered the use of "Conditional Logic" concept using elif.
 Created "The Movie Ticket Grader" mini project
 
+# Project 2 : Fortune Cookie Generator
+
+### "Project Overview"
+Developed a restaurant-style fortune cookie generator that provides randomized "message" and lucky numbers to users.
+
+### Technical Skills Applied
+* Integrated the `random` module to enable non-linear program behavior.
+* Used extensive `if/elif/else` logic to map numeric values to string-based output.
+*  Combined randomized text and integers into a single user-friendly terminal report.
+
+### The Logic Flow
+1. The program generates a random integer.
+2. The integer is checked against a list of 8 possible fortunes.
+3. The program prints the selected fortune and a secondary random "lucky number".
+
 
 
 
