@@ -41,13 +41,10 @@ Developed a terminal-based Point of Sale (POS) system for a boutique furniture s
 3.  Calculated and added tax to the final bill.
 4.  Generated a clean, formatted receipt for the user.
 
-# Lesson 4 : Conditional Logic (If Else)
-Mastered the use of "Conditional Logic" concept using `if` and `else`.
-Created "The Secret Password Vault" mini project
-
-# Lesson 5 : Conditional Logic(Elif)
-Mastered the use of "Conditional Logic" concept using elif.
-Created "The Movie Ticket Grader" mini project
+# Lesson 4 : Conditional Logic (If Else and Elif)
+Mastered the use of "Conditional Logic" concept using `if` and `else` and `elif`.
+Created "The Secret Password Vault" mini project for If Else
+Created "The Movie Ticket Grader" mini project for Elif
 
 # Project 2 : Fortune Cookie Generator
 
@@ -64,7 +61,10 @@ Developed a restaurant-style fortune cookie generator that provides randomized "
 2. The integer is checked against a list of 8 possible fortunes.
 3. The program prints the selected fortune and a secondary random "lucky number".
 
-
+# Lesson 5 : Iterative Logic (Loops)
+Mastered the use of `while` and `for` loops. 
+Created "Rocket Launcher " mini project for while loop
+Created "Task Automator " mini project for for loop
 
 
 
