@@ -4,7 +4,7 @@ This is my professional coding journal for the 2026 After-School Coding Program.
 
 # Lesson 1: Hello World
 - Created a GitHub account.
-- Launched a cloud-based development environment using **GitHub Codespaces**.
+- Launched a cloud-based development environment using "GitHub Codespaces".
 - Wrote and executed my first Python script: `myfirstcodehello.py`.
 
 #Tools Used
@@ -21,25 +21,33 @@ This is my professional coding journal for the 2026 After-School Coding Program.
 - Created simple calculator mini project
 
 # Project 1 : ASCII Art
-**Skill Learned:** Multi-line strings and terminal formatting.
-**Challenge:** Creating a visual "Welcome" sign for my repository.
+Skill Learned: Multi-line strings and terminal formatting.
+Challenge: Creating a visual "Welcome" sign for my repository.
 
 # Project 2 : Furniture Store
 
-### **Project Overview**
+### Project Overview
 Developed a terminal-based Point of Sale (POS) system for a boutique furniture store. The script manages an inventory catalog and processes customer transactions.
 
-### **Core Skills**
-* **State Management:** Tracking a running subtotal and item list.
-* **Assignment Operators:** Using `+=` to update numeric and string data.
-* **Business Math:** Applying an 8.8% sales tax to a finalized subtotal.
-* **Professional Formatting:** Using **f-strings** for two-decimal currency precision.
+### Core Skills
+*  Tracking a running subtotal and item list.
+*  Using `+=` to update numeric and string data.
+*  Applying an 8.8% sales tax to a finalized subtotal.
+*  Using "f-strings" for two-decimal currency precision.
 
-### **Execution Logic**
-1. **Catalog:** Stored product descriptions and prices in variables.
-2. **Transactions:** Updated the total and itemization string as items were "purchased".
-3. **Checkout:** Calculated and added tax to the final bill.
-4. **Reporting:** Generated a clean, formatted receipt for the user.
+### Execution Logic
+1.  Stored product descriptions and prices in variables.
+2.  Updated the total and itemization string as items were "purchased".
+3.  Calculated and added tax to the final bill.
+4.  Generated a clean, formatted receipt for the user.
+
+# Lesson 4 : Conditional Logic (If Else)
+Mastered the use of "Conditional Logic" concept using `if` and `else`.
+Created "The Secret Password Vault" mini project
+
+# Lesson 5 : Conditional Logic(Elif)
+Mastered the use of "Conditional Logic" concept using elif.
+Created "The Movie Ticket Grader" mini project
 
 
 
