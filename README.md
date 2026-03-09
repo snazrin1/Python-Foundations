@@ -96,16 +96,27 @@ Technical Skills: * Applied 2D list management to store Subjects and Grades toge
 Used .append() and .remove() for real-time data updates.
 Merged semesters using list concatenation (+).
 
-Gemini said
-To keep your documentation clean and consistent with your visual style, here is the condensed content for your README.md:
-
-# Lesson 8 : Dictionaries
-Mastered Key-Value pairs for efficient information retrieval.
-Created "Student Profile" and "Search Engine" mini projects.
-
 # Project 6 : Pizza Hut Sales Engine
 Project Overview: Built a sales tool using data pairing and sorting for business insights.
 Technical Skills: * Used zip() to lock Toppings and Prices together.
 Sorted paired data to rank items by price.
 Utilized slicing ([:]) to extract budget-friendly options.
+
+# Lesson 8 : Dictionaries
+Mastered using Dictionary Comprehension to build datasets efficiently.
+Learned to store Lists inside Dictionaries to manage complex relationships.
+
+# Project 9 : Scrabble Point Tracker
+Project Overview: Built a scoring engine that maps letters to points and calculates totals for multiple players.
+Technical Skills: * Used {key:value for key, value in zip()} for automated dictionary creation.
+Created a nested loop to calculate scores across a dictionary of word lists.
+Developed a robust score_word() function with error handling for missing keys.
+
+### Execution Logic
+A master letter_to_points dictionary is created by zipping alphabets with their point values.
+The score_word() function iterates through any string and sums the points based on the master dictionary.
+A player_to_words dictionary organizes gameplay by mapping names to a list of played words.
+The engine loops through each player, calculates their total via the scoring function, and stores the final rankings in player_to_points.
+
+
 
