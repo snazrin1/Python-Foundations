@@ -66,7 +66,7 @@ Mastered the use of `while` and `for` loops.
 Created "Rocket Launcher " mini project for while loop
 Created "Task Automator " mini project for for loop
 
-# Lesson 5 : Functions
+# Lesson 6 : Functions
 Mastered to create reusable blocks of code using `def`. 
 Created "Welcome Greeter" mini project 
 
@@ -86,5 +86,26 @@ Engineered a non-linear, text-based adventure game utilizing modular programming
 2. A central `while` loop acts as the engine, directing the player to the correct function based on the current "room" variable.
 3. The loop breaks only when a terminal state ("end") is reached.
 
+# Lesson 7 : Lists & 2D Arrays
+Mastered storing and manipulating ordered collections of data.
+Created "Inventory Manager" and "Gradebook" mini projects.
 
+# Project 5 : The Academic Gradebook
+Project Overview: Developed a multi-semester tracking system using two-dimensional lists.
+Technical Skills: * Applied 2D list management to store Subjects and Grades together.
+Used .append() and .remove() for real-time data updates.
+Merged semesters using list concatenation (+).
+
+Gemini said
+To keep your documentation clean and consistent with your visual style, here is the condensed content for your README.md:
+
+# Lesson 8 : Dictionaries
+Mastered Key-Value pairs for efficient information retrieval.
+Created "Student Profile" and "Search Engine" mini projects.
+
+# Project 6 : Pizza Hut Sales Engine
+Project Overview: Built a sales tool using data pairing and sorting for business insights.
+Technical Skills: * Used zip() to lock Toppings and Prices together.
+Sorted paired data to rank items by price.
+Utilized slicing ([:]) to extract budget-friendly options.
 
